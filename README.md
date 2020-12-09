@@ -32,6 +32,7 @@ El puntaje obtenido se suma al puntaje anterior del jugador. Si un jugador saca 
 COMBINACION
 
 
+
 1 ó más dados con valor 1
 
 Juego de 1
