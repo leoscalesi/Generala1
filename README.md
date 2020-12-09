@@ -29,13 +29,13 @@ El puntaje de un lanzamiento está determinado por una serie de reglas que figur
 
 El puntaje obtenido se suma al puntaje anterior del jugador. Si un jugador saca Generala en el primer tiro gana la partida.
 
-COMBINACION
+COMBINACIONES
 
 
 ---------------------------------------------------
 1 ó más dados con valor 1
 
-Juego de 1
+JUEGO DE 1
 
 Puntos=Suma de la cantidad de dados con el valor 1
 ---------------------------------------------------
@@ -44,7 +44,7 @@ Puntos=Suma de la cantidad de dados con el valor 1
 ---------------------------------------------------
 1 ó más dados con valor 2
 
-Juego de 2
+JUEGO DE 2
 
 Puntos=2*suma cantidad de dados con valor 2
 ---------------------------------------------------
@@ -53,7 +53,7 @@ Puntos=2*suma cantidad de dados con valor 2
 ---------------------------------------------------
 1 ó más dados con valor 3
 
-Juego de 3
+JUEGO DE 3
 
 Puntos=3*suma cantidad de dados con valor 3
 ---------------------------------------------------
@@ -62,7 +62,7 @@ Puntos=3*suma cantidad de dados con valor 3
 ---------------------------------------------------
 1 ó más dados con valor 4
 
-Juego de 4
+JUEGO DE 4
 
 Puntos=4*suma cantidad de dados con valor 4
 ---------------------------------------------------
@@ -71,7 +71,7 @@ Puntos=4*suma cantidad de dados con valor 4
 ---------------------------------------------------
 1 ó más dados con valor 5
 
-Juego de 5
+JUEGO DE 5
 
 Puntos=5*suma cantidad de dados con valor 5
 ---------------------------------------------------
@@ -80,7 +80,7 @@ Puntos=5*suma cantidad de dados con valor 5
 ---------------------------------------------------
 1 ó más dados con valor 6
 
-Juego de 6
+JUEGO DE 6
 
 Puntos=6*suma cantidad de dados con valor 6
 ---------------------------------------------------
@@ -89,7 +89,7 @@ Puntos=6*suma cantidad de dados con valor 6
 ---------------------------------------------------
 5 dados en orden creciente (1, 2, 3, 4, 5) ó (2,3,4,5,6)
 
-Escalera 
+ESCALERA
 
 Puntos=25
 ---------------------------------------------------
@@ -99,7 +99,7 @@ Puntos=25
 3 dados iguales, más otros 2 iguales
 Ejemplo: (3,3,3,2,2), (1,1,4,4,4),etc 
 
-Full 
+FULL
 
 Puntos=30
 ---------------------------------------------------
@@ -109,7 +109,7 @@ Puntos=30
 4 dados iguales
 Ejemplo: (3,3,3,3,2), (1,4,4,4,4),etc. 
 
-Poker 
+POKER
 
 Puntos=40
 ---------------------------------------------------
@@ -119,7 +119,7 @@ Puntos=40
 5 dados con el mismo valor
 Ejemplos:(1,1,1,1,1) , (6,6,6,6,6), etc
 
-Generala
+GENERALA
 
 Puntos=50 Si es en un tiro sólo gana el partido
 ---------------------------------------------------
