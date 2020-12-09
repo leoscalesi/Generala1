@@ -32,7 +32,9 @@ El puntaje obtenido se suma al puntaje anterior del jugador. Si un jugador saca 
 COMBINACION
 
 1 ó más dados con valor 1
+
 Juego de 1
+
 Puntos=Suma de la cantidad de dados con el valor 1
 
 1 ó más dados con valor 2
