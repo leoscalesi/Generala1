@@ -31,11 +31,13 @@ El puntaje obtenido se suma al puntaje anterior del jugador. Si un jugador saca 
 
 COMBINACION
 
+
 1 ó más dados con valor 1
 
 Juego de 1
 
 Puntos=Suma de la cantidad de dados con el valor 1
+
 
 
 
@@ -47,11 +49,13 @@ Puntos=2*suma cantidad de dados con valor 2
 
 
 
+
 1 ó más dados con valor 3
 
 Juego de 3
 
 Puntos=3*suma cantidad de dados con valor 3
+
 
 
 
@@ -63,11 +67,13 @@ Puntos=4*suma cantidad de dados con valor 4
 
 
 
+
 1 ó más dados con valor 5
 
 Juego de 5
 
 Puntos=5*suma cantidad de dados con valor 5
+
 
 
 
@@ -79,11 +85,13 @@ Puntos=6*suma cantidad de dados con valor 6
 
 
 
+
 5 dados en orden creciente (1, 2, 3, 4, 5) ó (2,3,4,5,6)
 
 Escalera 
 
 Puntos=25
+
 
 
 
@@ -96,12 +104,14 @@ Puntos=30
 
 
 
+
 4 dados iguales
 Ejemplo: (3,3,3,3,2), (1,4,4,4,4),etc. 
 
 Poker 
 
 Puntos=40
+
 
 
 
@@ -113,6 +123,8 @@ Generala
 Puntos=50 Si es en un tiro sólo gana el partido
 
 De obtener más de una combinación en el mismo lanzamiento, siempre deberá sumar el puntaje de mayor valor.
+
+
 
 INTERFAZ
 
