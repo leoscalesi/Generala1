@@ -1,7 +1,7 @@
 Generala-1
 PRIMER VERSION DE LA GENERALA USANDO C/C++.
 
-En esta ocasión les presento mi primer proyecto codificado en C, y con algunos elementos minimos de C++. Se trata de una versión "libre" del juego de la Generala. ¿Por qué libre?...Debido a que no se implementa exactamente el juego tal y como es en la realidad, sino que es una variante del juego original. Se adjuntarán los requerimientos del proyecto, en los cuales me base para armar el juego.
+En esta ocasión les presento mi primer proyecto codificado en C/C++. Se trata de una versión "libre" del juego de la Generala. ¿Por qué libre?...Debido a que no se implementa exactamente el juego tal y como es en la realidad, sino que es una variante del juego original. Se adjuntarán los requerimientos del proyecto, en los cuales me base para armar el juego.
 
 CONSIDERACIONES:
 
